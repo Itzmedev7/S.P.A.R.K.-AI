@@ -1,5 +1,5 @@
 How to use S.P.A.R.K. AI
-
+Go to SPARK-crossplatform (3).zip and click on view raw to download the zip file. 
 In the ZIP folder attached open index.html with your browser and then do as follows:
 
 First launch
