@@ -1,5 +1,7 @@
 How to use S.P.A.R.K. AI
 
+In the ZIP folder attached open index.html with your browser and then do as follows:
+
 First launch
 Open the app, then click the gear icon at the bottom of the sidebar to open Settings. Under "Brain," pick either Google Gemini (free) or OpenAI (paid), paste in your API key, optionally adjust the model name, and click Save.
 
