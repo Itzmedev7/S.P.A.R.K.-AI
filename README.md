@@ -8,6 +8,6 @@ followed by a click on "Source code (zip) to download the zip file.
 
 ***FOR ANDROID*** ---> open index.html (after extracting the files)
 
-***FOR LINUX*** ---> run ./SPARK.command in a terminal (after extracting the files)
+***FOR LINUX*** ---> run "./SPARK.command" in a terminal (after extracting the files)
 
 
